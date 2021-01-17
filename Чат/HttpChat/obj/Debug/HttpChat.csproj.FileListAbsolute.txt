@@ -1,0 +1,29 @@
+D:\МЫ\HttpChat\obj\Debug\HttpChat.csprojAssemblyReference.cache
+D:\МЫ\HttpChat\obj\Debug\HttpChat.Properties.Resources.resources
+D:\МЫ\HttpChat\obj\Debug\HttpChat.csproj.GenerateResource.cache
+D:\МЫ\HttpChat\obj\Debug\HttpChat.csproj.CoreCompileInputs.cache
+D:\МЫ\HttpChat\bin\Debug\HttpChat.exe.config
+D:\МЫ\HttpChat\bin\Debug\HttpChat.exe
+D:\МЫ\HttpChat\bin\Debug\HttpChat.pdb
+D:\МЫ\HttpChat\obj\Debug\HttpChat.exe
+D:\МЫ\HttpChat\obj\Debug\HttpChat.pdb
+D:\МЫ\HttpChat\obj\Debug\HttpChat.Client.resources
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\bin\Debug\HttpChat.exe.config
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\bin\Debug\HttpChat.exe
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\bin\Debug\HttpChat.pdb
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.csprojAssemblyReference.cache
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.Client.resources
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.Properties.Resources.resources
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.csproj.GenerateResource.cache
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.exe
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpChat\obj\Debug\HttpChat.pdb
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\bin\Debug\HttpChat.exe.config
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\bin\Debug\HttpChat.exe
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\bin\Debug\HttpChat.pdb
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.csprojAssemblyReference.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.Client.resources
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.Properties.Resources.resources
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.csproj.GenerateResource.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.csproj.CoreCompileInputs.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.exe
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpChat\obj\Debug\HttpChat.pdb

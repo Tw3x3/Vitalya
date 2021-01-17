@@ -1,0 +1,39 @@
+D:\МЫ\HttpClient\bin\Debug\HttpClient.exe.config
+D:\МЫ\HttpClient\bin\Debug\HttpClient.exe
+D:\МЫ\HttpClient\bin\Debug\HttpClient.pdb
+D:\МЫ\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+D:\МЫ\HttpClient\obj\Debug\HttpClient.Form1.resources
+D:\МЫ\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+D:\МЫ\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.cache
+D:\МЫ\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+D:\МЫ\HttpClient\obj\Debug\HttpClient.exe
+D:\МЫ\HttpClient\obj\Debug\HttpClient.pdb
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\bin\Debug\HttpClient.exe.config
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\bin\Debug\HttpClient.exe
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\bin\Debug\HttpClient.pdb
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.Form1.resources
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.cache
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.exe
+E:\ПиРП\распределенные вычисления\proj\pi\stud\HttpClient\obj\Debug\HttpClient.pdb
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\bin\Debug\HttpClient.exe.config
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\bin\Debug\HttpClient.exe
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\bin\Debug\HttpClient.pdb
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.Form1.resources
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.exe
+\\win-glmsev0bb29\students\!!!ЛОГОС\stud\HttpClient\obj\Debug\HttpClient.pdb
+D:\HttpClient\bin\Debug\HttpClient.exe.config
+D:\HttpClient\bin\Debug\HttpClient.exe
+D:\HttpClient\bin\Debug\HttpClient.pdb
+D:\HttpClient\obj\Debug\HttpClient.csprojAssemblyReference.cache
+D:\HttpClient\obj\Debug\HttpClient.Form1.resources
+D:\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+D:\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.cache
+D:\HttpClient\obj\Debug\HttpClient.csproj.CoreCompileInputs.cache
+D:\HttpClient\obj\Debug\HttpClient.exe
+D:\HttpClient\obj\Debug\HttpClient.pdb

@@ -1,0 +1,20 @@
+D:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.exe.config
+D:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.exe
+D:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.pdb
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.csprojAssemblyReference.cache
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.Properties.Resources.resources
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.csproj.GenerateResource.cache
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.exe
+D:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.pdb
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\bin\Debug\LR5.exe.config
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\bin\Debug\LR5.exe
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\bin\Debug\LR5.pdb
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.csprojAssemblyReference.cache
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.Properties.Resources.resources
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.csproj.GenerateResource.cache
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.csproj.CoreCompileInputs.cache
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.exe
+E:\Лабы2курс\Лабораторная работа №5\Тукмачёв Н.А\5LR\3SemLR5\obj\Debug\LR5.pdb

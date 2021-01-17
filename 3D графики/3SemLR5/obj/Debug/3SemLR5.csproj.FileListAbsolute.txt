@@ -1,0 +1,50 @@
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\bin\Debug\3SemLR5.exe.config
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\bin\Debug\3SemLR5.exe
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\bin\Debug\3SemLR5.pdb
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\3SemLR5.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\_3SemLR5.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\3SemLR5.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\3SemLR5.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\3SemLR5.exe
+C:\Users\Пользователь\source\repos\3SemLR5\3SemLR5\obj\Debug\3SemLR5.pdb
+D:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe.config
+D:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe
+D:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.pdb
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csprojAssemblyReference.cache
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Properties.Resources.resources
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.GenerateResource.cache
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.CoreCompileInputs.cache
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.exe
+D:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.pdb
+F:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe.config
+F:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe
+F:\3 семестр\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.pdb
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csprojAssemblyReference.cache
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Properties.Resources.resources
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.GenerateResource.cache
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.CoreCompileInputs.cache
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.exe
+F:\3 семестр\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.pdb
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe.config
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.exe
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\bin\Debug\3SemLR5.pdb
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csprojAssemblyReference.cache
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\_3SemLR5.Properties.Resources.resources
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.GenerateResource.cache
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.csproj.CoreCompileInputs.cache
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.exe
+C:\Users\НИКИТА\Desktop\3dgraph5LR\3SemLR5\obj\Debug\3SemLR5.pdb
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\3SemLR5.csprojAssemblyReference.cache
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\_3SemLR5.Form1.resources
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\3SemLR5.csproj.GenerateResource.cache
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\3SemLR5.csproj.CoreCompileInputs.cache
+E:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.exe.config
+E:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.exe
+E:\Лабораторная работа #5\5LR\3SemLR5\bin\Debug\LR5.pdb
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.Properties.Resources.resources
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.exe
+E:\Лабораторная работа #5\5LR\3SemLR5\obj\Debug\LR5.pdb
