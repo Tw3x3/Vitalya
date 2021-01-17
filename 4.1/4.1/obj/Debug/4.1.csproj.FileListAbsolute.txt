@@ -1,0 +1,9 @@
+G:\C#\Forms\4.1\4.1\bin\Debug\4.1.exe.config
+G:\C#\Forms\4.1\4.1\bin\Debug\4.1.exe
+G:\C#\Forms\4.1\4.1\bin\Debug\4.1.pdb
+G:\C#\Forms\4.1\4.1\obj\Debug\4.1.csprojAssemblyReference.cache
+G:\C#\Forms\4.1\4.1\obj\Debug\_4._1.Form1.resources
+G:\C#\Forms\4.1\4.1\obj\Debug\_4._1.Properties.Resources.resources
+G:\C#\Forms\4.1\4.1\obj\Debug\4.1.csproj.GenerateResource.cache
+G:\C#\Forms\4.1\4.1\obj\Debug\4.1.exe
+G:\C#\Forms\4.1\4.1\obj\Debug\4.1.pdb
